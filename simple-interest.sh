@@ -5,7 +5,7 @@
 
 set -euo pipefail
 
-# Colors for messages (optional)
+# Colors for messages ( optional )
 GREEN="[0;32m"; RED="[0;31m"; YELLOW="[1;33m"; NC="[0m"
 
 # Ensure bc is available for decimal arithmetic
